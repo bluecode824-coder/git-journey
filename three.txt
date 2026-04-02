@@ -1,2 +1,6 @@
 Three
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> development
